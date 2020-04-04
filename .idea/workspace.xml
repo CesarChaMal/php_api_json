@@ -77,6 +77,10 @@
       <workItem from="1583094628815" duration="64000" />
       <workItem from="1584220956025" duration="10000" />
       <workItem from="1584223336413" duration="26000" />
+      <workItem from="1584753386417" duration="32000" />
+      <workItem from="1584753487958" duration="17000" />
+      <workItem from="1586020988705" duration="66000" />
+      <workItem from="1586021195981" duration="33000" />
     </task>
     <servers />
   </component>
@@ -84,70 +88,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="292" y="124" key="#CLI_Interpreters" timestamp="1577113396889">
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586021040274">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="292" y="124" key="#CLI_Interpreters/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113396889" />
-    <state x="254" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577113425978">
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1586021040274" />
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586021196696">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="254" y="104" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113425978" />
-    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583094679345">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1583094679345" />
-    <state x="526" y="141" key="#phpinfo.php" timestamp="1577109863071">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="526" y="141" key="#phpinfo.php/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577109863071" />
-    <state x="580" y="203" key="FileChooserDialogImpl" timestamp="1577112653362">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="580" y="203" key="FileChooserDialogImpl/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577112653362" />
-    <state width="1557" height="269" key="GridCell.Tab.0.bottom" timestamp="1577113482048">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="269" key="GridCell.Tab.0.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113482048" />
-    <state width="1557" height="269" key="GridCell.Tab.0.center" timestamp="1577113482048">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="269" key="GridCell.Tab.0.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113482048" />
-    <state width="1557" height="269" key="GridCell.Tab.0.left" timestamp="1577113482047">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="269" key="GridCell.Tab.0.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113482047" />
-    <state width="1557" height="269" key="GridCell.Tab.0.right" timestamp="1577113482048">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="269" key="GridCell.Tab.0.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113482048" />
-    <state width="1557" height="269" key="GridCell.Tab.1.bottom" timestamp="1577113482048">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="269" key="GridCell.Tab.1.bottom/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113482048" />
-    <state width="1557" height="269" key="GridCell.Tab.1.center" timestamp="1577113482048">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="269" key="GridCell.Tab.1.center/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113482048" />
-    <state width="1557" height="269" key="GridCell.Tab.1.left" timestamp="1577113482048">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="269" key="GridCell.Tab.1.left/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113482048" />
-    <state width="1557" height="269" key="GridCell.Tab.1.right" timestamp="1577113482048">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state width="1557" height="269" key="GridCell.Tab.1.right/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113482048" />
-    <state x="301" y="91" key="SettingsEditor" timestamp="1577113439729">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="301" y="91" key="SettingsEditor/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577113439729" />
-    <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1584223344607">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="476" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1584223344607" />
-    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1577112893953">
-      <screen x="0" y="0" width="1600" height="900" />
-    </state>
-    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1577112893953" />
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1586021196696" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
