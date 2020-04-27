@@ -10,9 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,13 +20,12 @@
   <component name="ProjectId" id="1VO2TF6Xtt6Fg3EBiPSA9LDTPc9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/php-7.3.12/ext/php_xdebug-2.9.0-7.3-vc15-x86_64.dll" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php-7.3.12/ext/php_xdebug-2.9.0-7.3-vc15-x86_64.dll" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunManager">
@@ -40,18 +37,6 @@
         <item itemvalue="PHP Script.phpinfo.php" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -86,21 +71,23 @@
       <workItem from="1586599634278" duration="18000" />
       <workItem from="1586600000602" duration="21000" />
       <workItem from="1586797915580" duration="336000" />
+      <workItem from="1587104414962" duration="197000" />
+      <workItem from="1587105046240" duration="159000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586599360333">
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587104507702">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1586599360333" />
-    <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1586797920565">
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587104507702" />
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1587104420264">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="476" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1586797920565" />
+    <state x="476" y="272" key="com.intellij.ide.util.TipDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587104420264" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
