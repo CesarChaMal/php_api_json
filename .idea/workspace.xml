@@ -73,6 +73,8 @@
       <workItem from="1586797915580" duration="336000" />
       <workItem from="1587104414962" duration="197000" />
       <workItem from="1587105046240" duration="159000" />
+      <workItem from="1588505467158" duration="312000" />
+      <workItem from="1588506436212" duration="107000" />
     </task>
     <servers />
   </component>
@@ -80,10 +82,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587104507702">
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588505689147">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1587104507702" />
+    <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588505689147" />
     <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1587104420264">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
