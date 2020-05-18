@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../php-7.3.12/ext/php_xdebug-2.9.0-7.3-vc15-x86_64.dll" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="phpinfo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/phpinfo.php">
@@ -75,6 +75,8 @@
       <workItem from="1587105046240" duration="159000" />
       <workItem from="1588505467158" duration="312000" />
       <workItem from="1588506436212" duration="107000" />
+      <workItem from="1589216732614" duration="134000" />
+      <workItem from="1589216978904" duration="50000" />
     </task>
     <servers />
   </component>
@@ -86,6 +88,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="480" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1588505689147" />
+    <state x="301" y="94" key="SettingsEditor" timestamp="1589216885142">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="301" y="94" key="SettingsEditor/0.0.1600.900/1600.0.4096.2160@0.0.1600.900" timestamp="1589216885142" />
     <state x="476" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1587104420264">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
