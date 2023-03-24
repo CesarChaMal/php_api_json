@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="683fd044-6642-4ba0-8436-913252fa49c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +25,7 @@
     <xdebug_debug_ports port="6060" />
     <xdebug_debug_ports port="9003" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP73" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
   <component name="ProjectId" id="1VO2TF6Xtt6Fg3EBiPSA9LDTPc9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,16 +36,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Program Files (x86)/NuSphere/PhpED/php54/extensions/dbg-php-5.4.dll",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "zielu.gittoolbox.app.config.v2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="phpinfo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/phpinfo.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -99,6 +104,16 @@
       <workItem from="1590533457832" duration="5000" />
       <workItem from="1672534446441" duration="174000" />
       <workItem from="1672534922388" duration="281000" />
+      <workItem from="1676577208350" duration="726000" />
+      <workItem from="1676578038054" duration="4808000" />
+      <workItem from="1676583811342" duration="247000" />
+      <workItem from="1676584403015" duration="847000" />
+      <workItem from="1676646827724" duration="38000" />
+      <workItem from="1676646884874" duration="21000" />
+      <workItem from="1678313743740" duration="118000" />
+      <workItem from="1678656922318" duration="151000" />
+      <workItem from="1678784797466" duration="446000" />
+      <workItem from="1678785356352" duration="326000" />
     </task>
     <servers />
   </component>
@@ -115,5 +130,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
